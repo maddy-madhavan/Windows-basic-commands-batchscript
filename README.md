@@ -1,6 +1,6 @@
 # Windows-basic-commands-batchscript
-# Name: PRALAYAKAVERI RAJA
-# Reg No: 212224230202
+# Name:madhavan k
+# Reg No: 212224220054
 
 Ex08-Windows-basic-commands-batchscript
 
